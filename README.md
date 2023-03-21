@@ -4,7 +4,7 @@ Repositorio del proyecto de YizuzStore con React.
 
 
 Tienda de ropa online en proceso de creacion, con autenticacion de usuario, manejando de estado por usuario de la tienda en general.
-Click aqui para entrar a [CryptoMarket](https://cryptocoin-jdsl.netlify.app/coins).
+Click aqui para entrar a [YizuzStore](https://yizuzstore.netlify.app).
 
 Tecnologias utilizadas: 
 
